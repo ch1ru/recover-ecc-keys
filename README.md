@@ -1,5 +1,5 @@
 # recover-ecc-keys
-A tool to calculate the private key when the nonce has been reused
+A tool to calculate the private key when the nonce has been reused. Based on Jimmy Song's library from Programming Bitcoin.
 
 # How to use
 
