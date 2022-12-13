@@ -3,7 +3,7 @@ A tool to calculate the private key when the nonce has been reused
 
 # How to use
 
-```
+python```
 from recover import *
 
 k = 255
