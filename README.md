@@ -3,6 +3,10 @@ A tool to calculate the private key when the nonce has been reused
 
 # How to use
 
+To use this tool, you must input:
+- The signature s values s1 & s2
+- The message hashes z1 & z2
+
 ``` python
 from recover import *
 
