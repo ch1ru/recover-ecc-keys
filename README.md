@@ -3,7 +3,7 @@ A tool to calculate the private key when the nonce has been reused. Based on Jim
 
 # How to use
 
-To use this tool, you must input:
+To use this tool, you must have:
 - The signature s values s1 & s2
 - The message hashes z1 & z2
 
