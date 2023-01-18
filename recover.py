@@ -27,4 +27,3 @@ def recoverKey(z1, z2, s1, s2):
     print("\nFound private key: ")
     print(hex(x.num))
     return hex(x.num)
-
