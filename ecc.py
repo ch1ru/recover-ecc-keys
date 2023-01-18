@@ -6,9 +6,6 @@ import hmac
 
 #script to generate vulnerable signatures
 
-
-
-
 class FieldElement:
 
     def __init__(self, num, prime):
