@@ -9,7 +9,6 @@ r = (k*G).x.num
 k_inv = pow(k, N-2, N)
 s1 = (z1+r*e) * k_inv % N
 s2 = (z2+r*e) * k_inv % N
-
 key = recoverKey(z1, z2, s1, s2)
 
 if hex(e) != key:
